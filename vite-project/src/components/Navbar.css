@@ -1,0 +1,10 @@
+.navbar{
+    height: 5rem;
+}
+.navbar-brand{
+    font-size: 3rem;
+}
+.nav-item{
+    font-size: 1.5rem;
+    margin-left: 100px;
+}
