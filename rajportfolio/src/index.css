@@ -20,3 +20,38 @@
   font-size: 3.5rem;
   font-weight: 800;
 }
+.skills{
+  background-color: #caba9c;
+  height: 90vh;
+}
+
+.sill h1{
+  box-sizing: border-box;
+  border: 2px solid gold;
+  color: #013220;
+  background-color: #D0c7c2;
+  padding: 1%;
+  border-radius: 20px;
+}
+.skills-title{
+  color: #013220;
+  text-align: center;
+  border-bottom: 1px solid #332421;
+  width: 60%;
+  margin-left: 18%;
+  box-shadow: #332421;
+}
+.sill{
+  background-color: #986D5A;
+  border-radius: 20px;
+  margin-top: 2rem;
+  padding: 5px 30px 5px 5px;
+}
+
+
+.skill-logo{
+  text-align: center;
+}
+.skill-info{
+  text-align: center;
+}
